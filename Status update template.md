@@ -1,7 +1,7 @@
 # Status update template
 ## Last week’s accomplishments
 * Use a few sentences to describe what you did for the past week that’s relevant to your project. If you did not do anything, don’t complete a status update (this is more straightforward for grading because you will not get credit anyway) and use one of your dropped status updates for that week. 
-* Link any relevant to show that you did what you said: your commits, the pull request you opened, the UI/UX designs you drew, the issue that you wrote up, and so on. 
+* Link anything relevant to show that you did what you said: your commits, the pull request you opened, the UI/UX designs you drew, the issue that you wrote up, and so on. 
 * If you did a tutorial, you must link that tutorial and commit any relevant tutorial exercises to a repository or you will not receive credit. 
 * If you are not writing code, you should still be putting the work you’re doing on GitHub if it’s possible. This can include interface designs, logos, business plans, and documentation. If it can’t go on GitHub, please document it in your status update.
 
